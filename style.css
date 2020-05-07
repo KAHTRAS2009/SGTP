@@ -1,0 +1,41 @@
+header
+{ 
+	padding-left:36%;
+	color: GREEN;
+	background-color: black;
+}
+footer
+	{margin : 0px;
+	color:BLACK;
+	font-family : 'arial';
+	width: 80%;
+	padding-left: 42%;
+	padding-right:10%;
+	padding-top: 4%
+	
+}
+NAV
+{
+	background-color: #30ACEC;
+	
+	
+	
+}
+
+body
+{
+	background-color: #777;
+	color: white;
+	padding-top:2%;
+	padding-left:2%;
+	line-height:750px;
+	line-height:30px;
+	
+}
+main
+{
+	width:80%;
+	
+	padding-top:2%;
+	text-align:middle;
+}
